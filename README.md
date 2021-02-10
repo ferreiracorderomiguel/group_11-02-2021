@@ -1,0 +1,1 @@
+Base de datos sobre varios productos de alimentación y a los supermercador que se proveen. Para hacer las consultas se empleará el método aggregate y dentro de este dos matchs, uno de ellos con el operador $expr, y cálculos en el project.
